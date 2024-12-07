@@ -13,7 +13,7 @@
     "url": "http://tangly1024.com"
   },
   "scripts": {
-    "preinstall": "npm config set registry https://registry.npmjs.org",
+    "preinstall": "npm config set registry https://registry.npmjs.org/",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
