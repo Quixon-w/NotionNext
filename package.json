@@ -13,6 +13,7 @@
     "url": "http://tangly1024.com"
   },
   "scripts": {
+    "preinstall": "npm config set registry https://registry.npmjs.org",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -68,6 +69,7 @@
     "webpack-bundle-analyzer": "^4.5.0"
   },
   "resolutions": {
+    "glob-to-regexp": "0.4.2",
     "axios": ">=0.21.1"
   },
   "bugs": {
