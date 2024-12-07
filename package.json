@@ -69,7 +69,7 @@
     "webpack-bundle-analyzer": "^4.5.0"
   },
   "resolutions": {
-    "glob-to-regexp": "0.4.2",
+    "glob-to-regexp": "0.4.1",
     "axios": ">=0.21.1"
   },
   "bugs": {
